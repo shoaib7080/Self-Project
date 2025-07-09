@@ -10,7 +10,7 @@ const About = () => {
     },
     {
       title: "Skills",
-      content: "React, JavaScript, Node.js, CSS",
+      content: "React, JavaScript, Node.js, Tailwind CSS, MongoDB, Express",
     },
     {
       title: "Experience",

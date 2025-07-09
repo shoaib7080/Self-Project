@@ -3,6 +3,8 @@ import Navbar from "./sections/Navbar";
 import Intro from "./sections/Intro";
 import About from "./sections/About";
 import Projects from "./sections/Projects";
+import Contact from "./sections/Contact";
+import Skills from "./sections/Skills";
 
 const App = () => {
   return (
@@ -10,7 +12,9 @@ const App = () => {
       <Navbar />
       <Intro />
       <About />
+      <Skills />
       <Projects />
+      <Contact />
     </div>
   );
 };
